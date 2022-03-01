@@ -1,5 +1,5 @@
 # NetPractice
-### Goal:
+### The aim of the project:
 To configure small-scale networks.
 ### Basic information:
 - The first IP address of the subnet is the address of the network.
