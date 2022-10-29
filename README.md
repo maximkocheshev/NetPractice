@@ -72,3 +72,4 @@ To configure small-scale networks.
 - [Разница между моделью TCP/IP и моделью OSI](https://community.fs.com/ru/blog/tcpip-vs-osi-whats-the-difference-between-the-two-models.html)
 - [TCP И UDP – В ЧЕМ РАЗНИЦА?](https://wiki.merionet.ru/seti/23/tcp-i-udp-v-chem-raznica/)
 - [Веселые и короткие видеоуроки](https://www.youtube.com/c/%D0%9C%D0%B5%D1%80%D0%B8%D0%BE%D0%BD%D0%9D%D0%B5%D1%82%D0%B2%D0%BE%D1%80%D0%BA%D1%81)
+- [net_practice](https://github.com/Sglossu/net_practice)
