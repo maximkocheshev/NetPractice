@@ -1,7 +1,6 @@
 # NetPractice
-### The aim of the project:
-To configure small-scale networks.
-### Basic information:
+The aim of the project is to configure small-scale networks.
+## Basic information
 - The first IP address of the subnet is the address of the network.
 - The last IP address of the subnet is the broadcast.
 - IP addresses of neighboring networks must not overlap.
@@ -14,7 +13,7 @@ To configure small-scale networks.
 - Other IP addresses are public (with access to the Internet).
 - In the routing table, default or 0.0.0.0/0 matches everything.
 - The router has a different mask for each subnet.
-### Execrises:
+## Execrises
 <details>
 <summary>Level 1</summary>
 
@@ -66,7 +65,7 @@ To configure small-scale networks.
 ![Level_10](https://user-images.githubusercontent.com/90090114/156194130-619db4c1-54c6-44ec-b4cb-8775c45591a6.png)
 </details>
 
-### Useful links:
+## Resources
 - [Что такое IP-адрес, маска сети, подсеть и т.д.](https://github.com/evgenkarlson/ALL_SCHOOL_42/blob/master/00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/00_Global_(begin_cadet)/02____netwhat/answers_to_netwhat.md)
 - [Switch Vs. Router | Difference between Switch and Router](https://www.javatpoint.com/switch-vs-router)
 - [Разница между моделью TCP/IP и моделью OSI](https://community.fs.com/ru/blog/tcpip-vs-osi-whats-the-difference-between-the-two-models.html)
